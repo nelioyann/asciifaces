@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/asciifaces/static/js/main.b26d6203.chunk.js",
+    "main.js.map": "/asciifaces/static/js/main.b26d6203.chunk.js.map",
+    "runtime~main.js": "/asciifaces/static/js/runtime~main.8c75b00d.js",
+    "runtime~main.js.map": "/asciifaces/static/js/runtime~main.8c75b00d.js.map",
+    "static/js/2.b163a724.chunk.js": "/asciifaces/static/js/2.b163a724.chunk.js",
+    "static/js/2.b163a724.chunk.js.map": "/asciifaces/static/js/2.b163a724.chunk.js.map",
+    "index.html": "/asciifaces/index.html",
+    "precache-manifest.5282dcc99a28cbdcad33f58e20261f64.js": "/asciifaces/precache-manifest.5282dcc99a28cbdcad33f58e20261f64.js",
+    "service-worker.js": "/asciifaces/service-worker.js"
+  }
+}
